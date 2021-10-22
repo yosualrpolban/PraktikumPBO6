@@ -1,6 +1,6 @@
 package AntarKelas;
 
-// Aggregation dan Composition
+// Aggregation
 
 class Author
 {
